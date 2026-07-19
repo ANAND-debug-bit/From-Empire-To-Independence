@@ -6,14 +6,14 @@
 <br>
 <h2>How To Use The Website (It's preffered to view the site with 50% zoom only for a better experience. )</h2>
 <p>
-  It's very easy, just open the website and you will see the homepage with a dark, layered background and a 3D star floating behind everything.
+  It's very easy, just open the website and you will see the homepage
   <br>
 
   ![q1](image-2.png)
 
   
 <br>
-  scroll down the website and experience all the event cards from 1600 -> 1947 -> 2022 , with a moving 3d animation in the background while scrolling .
+  scroll down the website and experience all the event cards from 1600 -> 1947 -> 2022 .
   <br>
   
   ![q2](image.png)
