@@ -4,7 +4,7 @@
 <hr>
 <h3>AUTHOR : ATHARV ANAND</h3>
 <br>
-<h2>How To Use The Website</h2>
+<h2>How To Use The Website (It's preffered to view the site with 50% zoom only for a better experience. )</h2>
 <p>
   It's very easy, just open the website and you will see the homepage with a dark, layered background and a 3D star floating behind everything.
   <br>
@@ -30,8 +30,7 @@
   <li>Timeline of 25 major events from the entry of Britishers in India to the Independence of India . </li>
   <li>Every event card shows its image, tag, short summary and full details.</li>
   <li>Click on any image to zoom it into a full screen view.</li>
-  <li>Dark themed site with layered orange, green, blue and white colours in bg, inspired by the Indian flag.</li>
-  <li>A 3D background made using 3js built some geometrical rotating shapes and floating particles that will move as you scroll down .</li>
+  <li>Yellow white themed site </li>
 
 </ul>
 <hr>
