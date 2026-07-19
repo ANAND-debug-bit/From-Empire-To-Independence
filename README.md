@@ -9,14 +9,14 @@
   It's very easy, just open the website and you will see the homepage with a dark, layered background and a 3D star floating behind everything.
   <br>
 
-  ![hp](image.png)
+  ![q1](image-2.png)
 
   
 <br>
   scroll down the website and experience all the event cards from 1600 -> 1947 -> 2022 , with a moving 3d animation in the background while scrolling .
   <br>
   
-  ![i2](image-1.png)
+  ![q2](image.png)
   
 </p>
 <hr>
@@ -36,7 +36,7 @@
 </ul>
 <hr>
 <h3> AI use </h3>
-<p>I used AI for the content of the timeline and also for the help in the 3d moving animation while scrolling.</p>
+<p>I used AI for the content of the timeline and some part of site functionality.</p>
 <hr>
 <h2>TECH STACK</h2>
 <br>
